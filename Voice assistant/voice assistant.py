@@ -19,7 +19,7 @@ def get_date():
     engine.say(f'Today date is{cd}')
     engine.runAndWait()
 def get_name():
-    engine.say("my name is Yadhardha's assistant")
+    engine.say("my name is Prem's assistant")
     engine.runAndWait()
 def get_bye():
     engine.say("Bye have a nice day")
